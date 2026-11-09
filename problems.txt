@@ -1,0 +1,5 @@
+1. Problem starts from the 1st thing i do lol .. i tried to make this file : txt file .. and save it .. it saved it as 
+    docker-compose.yml  docker file but it gave error that this cant be made manually ..
+
+    Solution: oh that was a file name problem i had trailing spaces while setting the name.
+
